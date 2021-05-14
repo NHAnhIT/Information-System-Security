@@ -1,0 +1,7 @@
+D:\C#\TT\TT\bin\Debug\TT.exe.config
+D:\C#\TT\TT\bin\Debug\TT.exe
+D:\C#\TT\TT\bin\Debug\TT.pdb
+D:\C#\TT\TT\obj\Debug\TT.csprojAssemblyReference.cache
+D:\C#\TT\TT\obj\Debug\TT.csproj.CoreCompileInputs.cache
+D:\C#\TT\TT\obj\Debug\TT.exe
+D:\C#\TT\TT\obj\Debug\TT.pdb

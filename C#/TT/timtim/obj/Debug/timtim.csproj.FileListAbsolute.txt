@@ -1,0 +1,7 @@
+D:\C#\TT\timtim\bin\Debug\timtim.exe.config
+D:\C#\TT\timtim\bin\Debug\timtim.exe
+D:\C#\TT\timtim\bin\Debug\timtim.pdb
+D:\C#\TT\timtim\obj\Debug\timtim.csprojAssemblyReference.cache
+D:\C#\TT\timtim\obj\Debug\timtim.csproj.CoreCompileInputs.cache
+D:\C#\TT\timtim\obj\Debug\timtim.exe
+D:\C#\TT\timtim\obj\Debug\timtim.pdb
